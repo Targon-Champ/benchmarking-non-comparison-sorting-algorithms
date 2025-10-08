@@ -266,5 +266,6 @@ If you have any questions about contributing, feel free to:
 - Check existing issues and discussions
 
 ---
+---
 
 Thank you for contributing! Your efforts help make this project better for everyone. 🎉
