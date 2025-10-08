@@ -20,6 +20,10 @@ Non-comparison sorting algorithms can achieve better time complexity than tradit
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## AI Tool Usage
+Qwen: For Documentation and code suggestions.
+Claude: Basic Queries and text formating.
+
 ## Contributing
 
 Please read [Instructions.md](Instructions.md) for details on our code of conduct and the process for submitting pull requests.
